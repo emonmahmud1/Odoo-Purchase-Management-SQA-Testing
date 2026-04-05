@@ -1,0 +1,6 @@
+Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Due date
+Bug,OPM-12,10045,System should prompt for a valid email address,,,emonmahmud083,712020:8246a033-bd9a-4151-8702-d9966d623abb,Medium,To Do,,05/Mar/26 10:47 PM,05/Mar/26 10:47 PM,06/Mar/26 12:00 AM
+Bug,OPM-11,10044,System should warn duplicate,emonmahmud083,712020:8246a033-bd9a-4151-8702-d9966d623abb,emonmahmud083,712020:8246a033-bd9a-4151-8702-d9966d623abb,Medium,To Do,,05/Mar/26 10:39 PM,05/Mar/26 10:39 PM,06/Mar/26 12:00 AM
+Bug,OPM-10,10043,System should show a warning or not allow negative values,emonmahmud083,712020:8246a033-bd9a-4151-8702-d9966d623abb,emonmahmud083,712020:8246a033-bd9a-4151-8702-d9966d623abb,Medium,To Do,,05/Mar/26 10:33 PM,05/Mar/26 10:33 PM,05/Mar/26 12:00 AM
+Bug,OPM-9,10042,No success message show after successfull login,emonmahmud083,712020:8246a033-bd9a-4151-8702-d9966d623abb,emonmahmud083,712020:8246a033-bd9a-4151-8702-d9966d623abb,Medium,To Do,,05/Mar/26 10:17 PM,05/Mar/26 10:17 PM,05/Mar/26 12:00 AM
+Bug,OPM-8,10041,No eye button in password field,emonmahmud083,712020:8246a033-bd9a-4151-8702-d9966d623abb,emonmahmud083,712020:8246a033-bd9a-4151-8702-d9966d623abb,Medium,To Do,,05/Mar/26 10:13 PM,05/Mar/26 10:20 PM,05/Mar/26 12:00 AM
